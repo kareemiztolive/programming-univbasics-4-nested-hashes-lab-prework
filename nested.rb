@@ -94,8 +94,10 @@ def adding_matz
     #programmer_hash[:yukihiro_matsumoto][:known_for][:languages] = ["LISP", "C"]
     
     
+    
+    
    
-   #puts programmer_hash
+   puts programmer_hash
       
 
     
