@@ -144,6 +144,6 @@ def adding_to_dennis
         }
      }
      
-      programmer_hash[]
+      programmer_hash[:dennis_]
 
 end
